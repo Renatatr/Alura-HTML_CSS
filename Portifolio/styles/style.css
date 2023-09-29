@@ -169,7 +169,7 @@ body {
   padding: 50px;
   background: var(--cor-hover);
   border-radius: 5px;
-  width: 30%;
+  width: 40%;
   position: relative;
   transition: all 3s ease-in-out;
   display: flex;
@@ -213,5 +213,10 @@ body {
 
     .apresentacao__conteudo {
         width: 90%;
+    }
+
+    .popup {
+        width: 70%;
+        flex-direction: column;
     }
 }
