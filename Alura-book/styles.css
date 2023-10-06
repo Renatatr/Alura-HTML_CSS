@@ -12,6 +12,8 @@
     --cor-fundo-secundario: #012622;
     --cor-fundo-secundario-degrade: linear-gradient(97.54deg, #012622 35.49%, #03635A 165.37% );
     --fonte-principal: "Poppins";
+    --fonte-secundaria: "Josefin Sans";
+    --cor-fonte-rodape: #8A4F7D;
 }
 
 body {
